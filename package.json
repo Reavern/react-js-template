@@ -10,7 +10,7 @@
     "@progress/kendo-react-pdf": "^3.9.0",
     "bootstrap": "^4.3.1",
     "firebase": "^6.4.2",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "popper.js": "^1.16.0",
     "react": "^16.9.0",
     "react-bootstrap": "^1.0.0-beta.15",
